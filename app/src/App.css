@@ -1,0 +1,16 @@
+#mainDiv {
+    text-align: center;
+}
+
+#titleH1 {
+
+}
+
+.rowDiv {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.blockDiv {
+    padding: 10%;
+}
